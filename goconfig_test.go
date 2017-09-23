@@ -19,8 +19,6 @@ import (
 	"fmt"
 	"io/ioutil"
 	"testing"
-
-	. "github.com/smartystreets/goconvey/convey"
 )
 
 func TestLoadConfigFile(t *testing.T) {
